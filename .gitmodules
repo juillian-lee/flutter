@@ -1,0 +1,3 @@
+[submodule "flutter-contador-de-pessoas"]
+	path = flutter-contador-de-pessoas
+	url = https://github.com/juillianlee/flutter-contador-de-pessoas
