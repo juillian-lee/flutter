@@ -1,1 +1,1 @@
-# Projeto para estude de Flutter
+# Projeto para estudo de Flutter
