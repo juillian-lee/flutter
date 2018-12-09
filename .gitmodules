@@ -4,3 +4,6 @@
 [submodule "flutter-calculadora-imc"]
 	path = flutter-calculadora-imc
 	url = https://github.com/juillianlee/flutter-calculadora-imc
+[submodule "flutter-conversor-moeda"]
+	path = flutter-conversor-moeda
+	url = https://github.com/juillianlee/flutter-conversor-moeda
