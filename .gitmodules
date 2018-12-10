@@ -7,3 +7,6 @@
 [submodule "flutter-conversor-moeda"]
 	path = flutter-conversor-moeda
 	url = https://github.com/juillianlee/flutter-conversor-moeda
+[submodule "flutter-todo-list"]
+	path = flutter-todo-list
+	url = https://github.com/juillianlee/flutter-todo-list
