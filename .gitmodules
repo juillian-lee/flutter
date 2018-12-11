@@ -10,3 +10,6 @@
 [submodule "flutter-todo-list"]
 	path = flutter-todo-list
 	url = https://github.com/juillianlee/flutter-todo-list
+[submodule "flutter-buscador-gifs"]
+	path = flutter-buscador-gifs
+	url = https://github.com/juillianlee/flutter-buscador-gifs
