@@ -13,3 +13,6 @@
 [submodule "flutter-buscador-gifs"]
 	path = flutter-buscador-gifs
 	url = https://github.com/juillianlee/flutter-buscador-gifs
+[submodule "flutter-agenda-contatos"]
+	path = flutter-agenda-contatos
+	url = https://github.com/juillianlee/flutter-agenda-contatos
