@@ -16,3 +16,6 @@
 [submodule "flutter-agenda-contatos"]
 	path = flutter-agenda-contatos
 	url = https://github.com/juillianlee/flutter-agenda-contatos
+[submodule "flutter-firebase-login-chat"]
+	path = flutter-firebase-login-chat
+	url = https://github.com/juillianlee/flutter-firebase-login-chat
